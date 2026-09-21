@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dayanajoseph.github.io/sitemap.xml
